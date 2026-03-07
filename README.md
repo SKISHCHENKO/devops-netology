@@ -23,3 +23,5 @@ override.tf.json
 .terraform.tfstate.lock.info  
 .terraformrc  
 terraform.rc  
+
+Правка README.md в IDEA
